@@ -95,6 +95,7 @@ README.md
 The project is compiled using the provided **Makefile**, which generates the `search` executable.
 
 ```bash
+cd vector-search
 make
 ```
 
